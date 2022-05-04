@@ -22,5 +22,5 @@ FER - 2013 : https://www.kaggle.com/msambare/fer2013
 3. When the program is executed it opens the webcam and detects the human face and gives the output as emoji
 
 # Project Created by:
-Vinuthna Vulligaddala
+Vinuthna Vulligaddala,
 Nitisha Potluri
